@@ -73,6 +73,8 @@ def create_pdf(employee, selected_month, selected_year, timesheet_data):
             signature = f"Feriado: {calendar.month_name[selected_month]} {day}"
         
         timesheet_data_table.append([f"{day:02d}/{selected_month:02d}/{selected_year}", "", "", "", "", signature])
+
+    timesheet_data_table.append(["Observações\n", "\n", "\n", "\n", "\n"])
     
     timesheet_table = Table(timesheet_data_table, colWidths=[60, 70, 70, 70, 70, 150])  
     timesheet_table.setStyle(TableStyle([ 
