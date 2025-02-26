@@ -1,0 +1,69 @@
+{
+    "organization": {
+        "state": "Minas Gerais",
+        "city": "Barbacena",
+        "name": "Câmara Municipal de Barbacena",
+        "department": "Gabinete do Vereador Milton Roman",
+        "supervisor": "Milton Roman"
+    },
+    "employees": [
+        {
+            "name": "Marcio Cleber da Silva Costa",
+            "role": "Assessor de Relações Comunitárias"
+        },
+        {
+            "name": "Daiana da Silva Moura Guedes",
+            "role": "Assessor de Relações Comunitárias"
+        },
+        {
+            "name": "Tayna Aparecida Galdino da Silva",
+            "role": "Assessor de Relações Comunitárias"
+        },
+        {
+            "name": "Jacinta de Carvalho Ferreira",
+            "role": "Assessor de Relações Comunitárias"
+        },
+        {
+            "name": "Raniere Dirneia de Melo",
+            "role": "Assessor de Relações Comunitárias"
+        },
+        {
+            "name": "Rosimere Aparecida Alves da Silva",
+            "role": "Assessor de Relações Comunitárias"
+        },
+        {
+            "name": "Carlos Henrique Turqueti",
+            "role": "Assessor Parlamentar"
+        },
+        {
+            "name": "Maria da Conceição Oliveira Araújo",
+            "role": "Assessor Parlamentar"
+        },
+        {
+            "name": "Márcia Duarte Mangualde",
+            "role": "Assessor Parlamentar"
+        },
+        {
+            "name": "Marco Aurélio Pereira da Silva",
+            "role": "Chefe de Gabinete"
+        }
+    ],
+    "holidays": {
+        "january": [],
+        "february": [],
+        "march": [],
+        "april": [],
+        "may": [],
+        "june": [],
+        "july": [],
+        "august": [
+            14
+        ],
+        "september": [],
+        "october": [],
+        "november": [],
+        "december": [
+            8
+        ]
+    }
+}
